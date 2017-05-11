@@ -31,3 +31,6 @@ D:\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.View.frmHoaDon.resources
 C:\Users\vudon\Desktop\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe.config
 C:\Users\vudon\Desktop\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.exe
 C:\Users\vudon\Desktop\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.pdb
+D:\Thuc TapNhom222222222\VuDong\QuanLyBanHangSieuThi\QL_BanHang\QL_BanHang\bin\Debug\QL_BanHang.exe.config
+D:\Thuc TapNhom222222222\VuDong\QuanLyBanHangSieuThi\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.exe
+D:\Thuc TapNhom222222222\VuDong\QuanLyBanHangSieuThi\QL_BanHang\QL_BanHang\obj\Debug\QL_BanHang.pdb
